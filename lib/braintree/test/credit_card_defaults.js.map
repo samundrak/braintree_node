@@ -1,0 +1,10 @@
+{
+  "version": 3,
+  "file": "credit_card_defaults.js",
+  "sourceRoot": "../../..",
+  "sources": [
+    "src/braintree/test/credit_card_defaults.coffee"
+  ],
+  "names": [],
+  "mappings": ";AAAA,IAAA;;AAAA,kBAAA,GAAqB;EACnB,iBAAA,EAAoB,KADD;EAEnB,WAAA,EAAoB,cAFD;;;AAKrB,OAAO,CAAC,kBAAR,GAA6B"
+}

@@ -1,0 +1,10 @@
+{
+  "version": 3,
+  "file": "plan.js",
+  "sourceRoot": "../..",
+  "sources": [
+    "src/braintree/plan.coffee"
+  ],
+  "names": [],
+  "mappings": ";AAAA,IAAA,qBAAA;EAAA;;;AAAC,kBAAmB,OAAA,CAAQ,oBAAR,EAAnB;;AAEK;;;;;;;;;GAAa;;AAEnB,OAAO,CAAC,IAAR,GAAe"
+}

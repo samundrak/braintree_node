@@ -1,0 +1,10 @@
+{
+  "version": 3,
+  "file": "account_updater_daily_report.js",
+  "sourceRoot": "../..",
+  "sources": [
+    "src/braintree/account_updater_daily_report.coffee"
+  ],
+  "names": [],
+  "mappings": ";AAAA,IAAA,0CAAA;EAAA;;;AAAC,kBAAmB,OAAA,CAAQ,oBAAR,EAAnB;;AAEK;;;EACS,mCAAC,UAAD;IACX,2DAAM,UAAN;EADW;;;;GADyB;;AAIxC,OAAO,CAAC,yBAAR,GAAoC"
+}

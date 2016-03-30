@@ -1,0 +1,10 @@
+{
+  "version": 3,
+  "file": "paypal_account.js",
+  "sourceRoot": "../..",
+  "sources": [
+    "src/braintree/paypal_account.coffee"
+  ],
+  "names": [],
+  "mappings": ";AAAA,IAAA,8BAAA;EAAA;;;AAAC,kBAAmB,OAAA,CAAQ,oBAAR,EAAnB;;AAEK;;;EACS,uBAAC,UAAD;IACX,+CAAM,UAAN;EADW;;;;GADa;;AAI5B,OAAO,CAAC,aAAR,GAAwB"
+}

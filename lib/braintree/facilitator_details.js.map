@@ -1,0 +1,10 @@
+{
+  "version": 3,
+  "file": "facilitator_details.js",
+  "sourceRoot": "../..",
+  "sources": [
+    "src/braintree/facilitator_details.coffee"
+  ],
+  "names": [],
+  "mappings": ";AAAA,IAAA,mCAAA;EAAA;;;AAAC,kBAAmB,OAAA,CAAQ,oBAAR,EAAnB;;AAEK;;;EACS,4BAAC,UAAD;IACX,oDAAM,UAAN;EADW;;;;GADkB;;AAIjC,OAAO,CAAC,kBAAR,GAA6B"
+}

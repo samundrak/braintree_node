@@ -1,0 +1,10 @@
+{
+  "version": 3,
+  "file": "settlement_batch_summary.js",
+  "sourceRoot": "../..",
+  "sources": [
+    "src/braintree/settlement_batch_summary.coffee"
+  ],
+  "names": [],
+  "mappings": ";AAAA,IAAA,uCAAA;EAAA;;;AAAC,kBAAmB,OAAA,CAAQ,oBAAR,EAAnB;;AAEK;;;;;;;;;GAA+B;;AAErC,OAAO,CAAC,sBAAR,GAAiC"
+}

@@ -1,0 +1,10 @@
+{
+  "version": 3,
+  "file": "signature_service.js",
+  "sourceRoot": "../..",
+  "sources": [
+    "src/braintree/signature_service.coffee"
+  ],
+  "names": [],
+  "mappings": ";AAAA,IAAA;;AAAM;EAES,0BAAC,GAAD,EAAM,YAAN;IACX,IAAC,CAAA,GAAD,GAAO;IACP,IAAC,CAAA,YAAD,GAAgB;EAFL;;6BAIb,IAAA,GAAM,SAAC,IAAD;WACF,CAAC,IAAC,CAAA,YAAD,CAAc,IAAC,CAAA,GAAf,EAAoB,IAApB,CAAD,CAAA,GAA2B,GAA3B,GAA8B;EAD5B;;;;;;AAGR,OAAO,CAAC,gBAAR,GAA2B"
+}

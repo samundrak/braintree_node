@@ -1,0 +1,10 @@
+{
+  "version": 3,
+  "file": "validation_error.js",
+  "sourceRoot": "../..",
+  "sources": [
+    "src/braintree/validation_error.coffee"
+  ],
+  "names": [],
+  "mappings": ";AAAA,IAAA;;AAAM;EACS,yBAAC,KAAD;IACX,IAAC,CAAA,SAAD,GAAa,KAAK,CAAC;IACnB,IAAC,CAAA,IAAD,GAAQ,KAAK,CAAC;IACd,IAAC,CAAA,OAAD,GAAW,KAAK,CAAC;EAHN;;;;;;AAKf,OAAO,CAAC,eAAR,GAA0B"
+}

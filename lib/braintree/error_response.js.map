@@ -1,0 +1,10 @@
+{
+  "version": 3,
+  "file": "error_response.js",
+  "sourceRoot": "../..",
+  "sources": [
+    "src/braintree/error_response.coffee"
+  ],
+  "names": [],
+  "mappings": ";AAAA,IAAA;;AAAC,cAAe,OAAA,CAAQ,eAAR,EAAf;;AACA,6BAA8B,OAAA,CAAQ,gCAAR,EAA9B;;AAEK;EACS,uBAAC,UAAD;AACX,QAAA;AAAA,SAAA,iBAAA;;MACE,IAAE,CAAA,GAAA,CAAF,GAAS;AADX;IAEA,IAAC,CAAA,OAAD,GAAW;IACX,IAAC,CAAA,MAAD,GAAc,IAAA,0BAAA,CAA2B,UAAU,CAAC,MAAtC;IACd,IAA0D,UAAU,CAAC,WAArE;MAAA,IAAC,CAAA,WAAD,GAAmB,IAAA,WAAA,CAAY,UAAU,CAAC,WAAvB,EAAnB;;EALW;;;;;;AAOf,OAAO,CAAC,aAAR,GAAwB"
+}

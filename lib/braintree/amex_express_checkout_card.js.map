@@ -1,0 +1,10 @@
+{
+  "version": 3,
+  "file": "amex_express_checkout_card.js",
+  "sourceRoot": "../..",
+  "sources": [
+    "src/braintree/amex_express_checkout_card.coffee"
+  ],
+  "names": [],
+  "mappings": ";AAAA,IAAA,wCAAA;EAAA;;;AAAC,kBAAmB,OAAA,CAAQ,oBAAR,EAAnB;;AAEK;;;EACS,iCAAC,UAAD;IACX,yDAAM,UAAN;EADW;;;;GADuB;;AAItC,OAAO,CAAC,uBAAR,GAAkC"
+}

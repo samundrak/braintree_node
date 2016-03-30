@@ -1,0 +1,10 @@
+{
+  "version": 3,
+  "file": "payment_method_nonce.js",
+  "sourceRoot": "../..",
+  "sources": [
+    "src/braintree/payment_method_nonce.coffee"
+  ],
+  "names": [],
+  "mappings": ";AAAA,IAAA,qDAAA;EAAA;;;AAAC,kBAAmB,OAAA,CAAQ,oBAAR,EAAnB;;AACA,mBAAoB,OAAA,CAAQ,uBAAR,EAApB;;AAEK;;;EACS,4BAAC,UAAD;IACX,oDAAM,UAAN;IACA,IAAyE,UAAU,CAAC,gBAApF;MAAA,IAAC,CAAA,gBAAD,GAAwB,IAAA,gBAAA,CAAiB,UAAU,CAAC,gBAA5B,EAAxB;;EAFW;;;;GADkB;;AAKjC,OAAO,CAAC,kBAAR,GAA6B"
+}

@@ -1,0 +1,10 @@
+{
+  "version": 3,
+  "file": "add_on.js",
+  "sourceRoot": "../..",
+  "sources": [
+    "src/braintree/add_on.coffee"
+  ],
+  "names": [],
+  "mappings": ";AAAA,IAAA,sBAAA;EAAA;;;AAAC,kBAAmB,OAAA,CAAQ,oBAAR,EAAnB;;AAEK;;;;;;;;;GAAc;;AAEpB,OAAO,CAAC,KAAR,GAAgB"
+}

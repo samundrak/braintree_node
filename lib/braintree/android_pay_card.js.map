@@ -1,0 +1,10 @@
+{
+  "version": 3,
+  "file": "android_pay_card.js",
+  "sourceRoot": "../..",
+  "sources": [
+    "src/braintree/android_pay_card.coffee"
+  ],
+  "names": [],
+  "mappings": ";AAAA,IAAA,+BAAA;EAAA;;;AAAC,kBAAmB,OAAA,CAAQ,oBAAR,EAAnB;;AAEK;;;EACS,wBAAC,UAAD;IACX,gDAAM,UAAN;IAEA,IAAG,UAAH;MACE,IAAC,CAAA,QAAD,GAAY,UAAU,CAAC;MACvB,IAAC,CAAA,KAAD,GAAS,UAAU,CAAC,iBAFtB;;EAHW;;;;GADc;;AAQ7B,OAAO,CAAC,cAAR,GAAyB"
+}

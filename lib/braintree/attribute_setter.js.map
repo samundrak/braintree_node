@@ -1,0 +1,10 @@
+{
+  "version": 3,
+  "file": "attribute_setter.js",
+  "sourceRoot": "../..",
+  "sources": [
+    "src/braintree/attribute_setter.coffee"
+  ],
+  "names": [],
+  "mappings": ";AAAA,IAAA;;AAAM;EACS,yBAAC,UAAD;AACX,QAAA;AAAA,SAAA,iBAAA;;MACE,IAAE,CAAA,GAAA,CAAF,GAAS;AADX;EADW;;;;;;AAIf,OAAO,CAAC,eAAR,GAA0B"
+}

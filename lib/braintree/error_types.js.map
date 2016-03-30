@@ -1,0 +1,10 @@
+{
+  "version": 3,
+  "file": "error_types.js",
+  "sourceRoot": "../..",
+  "sources": [
+    "src/braintree/error_types.coffee"
+  ],
+  "names": [],
+  "mappings": ";AAAA,OAAO,CAAC,mBAAR,GAA8B;;AAC9B,OAAO,CAAC,kBAAR,GAA6B;;AAC7B,OAAO,CAAC,uBAAR,GAAkC;;AAClC,OAAO,CAAC,qBAAR,GAAgC;;AAChC,OAAO,CAAC,qBAAR,GAAgC;;AAChC,OAAO,CAAC,mCAAR,GAA8C;;AAC9C,OAAO,CAAC,aAAR,GAAwB;;AACxB,OAAO,CAAC,WAAR,GAAsB;;AACtB,OAAO,CAAC,uCAAR,GAAkD;;AAClD,OAAO,CAAC,eAAR,GAA0B;;AAC1B,OAAO,CAAC,eAAR,GAA0B"
+}

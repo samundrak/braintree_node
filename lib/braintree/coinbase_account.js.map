@@ -1,0 +1,10 @@
+{
+  "version": 3,
+  "file": "coinbase_account.js",
+  "sourceRoot": "../..",
+  "sources": [
+    "src/braintree/coinbase_account.coffee"
+  ],
+  "names": [],
+  "mappings": ";AAAA,IAAA,gCAAA;EAAA;;;AAAC,kBAAmB,OAAA,CAAQ,oBAAR,EAAnB;;AAEK;;;EACS,yBAAC,UAAD;IACX,iDAAM,UAAN;EADW;;;;GADe;;AAI9B,OAAO,CAAC,eAAR,GAA0B"
+}

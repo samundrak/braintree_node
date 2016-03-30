@@ -1,0 +1,10 @@
+{
+  "version": 3,
+  "file": "three_d_secure_info.js",
+  "sourceRoot": "../..",
+  "sources": [
+    "src/braintree/three_d_secure_info.coffee"
+  ],
+  "names": [],
+  "mappings": ";AAAA,IAAA,iCAAA;EAAA;;;AAAC,kBAAmB,OAAA,CAAQ,oBAAR,EAAnB;;AAEK;;;EACS,0BAAC,UAAD;IACX,kDAAM,UAAN;EADW;;;;GADgB;;AAI/B,OAAO,CAAC,gBAAR,GAA2B"
+}

@@ -1,0 +1,10 @@
+{
+  "version": 3,
+  "file": "merchant_account.js",
+  "sourceRoot": "../..",
+  "sources": [
+    "src/braintree/merchant_account.coffee"
+  ],
+  "names": [],
+  "mappings": ";AAAA,IAAA,gCAAA;EAAA;;;AAAC,kBAAmB,OAAA,CAAQ,oBAAR,EAAnB;;AAEK;;;EACJ,eAAC,CAAA,MAAD,GACE;IAAA,OAAA,EAAU,SAAV;IACA,MAAA,EAAS,QADT;IAEA,SAAA,EAAY,WAFZ;;;EAIF,eAAC,CAAA,kBAAD,GACE;IAAA,IAAA,EAAO,MAAP;IACA,KAAA,EAAQ,OADR;IAEA,WAAA,EAAc,cAFd;;;EAIW,yBAAC,UAAD;IACX,iDAAM,UAAN;IACA,IAAG,UAAU,CAAC,qBAAd;MACE,IAAC,CAAA,qBAAD,GAA6B,IAAA,eAAA,CAAgB,UAAU,CAAC,qBAA3B,EAD/B;;EAFW;;;;GAXe;;AAgB9B,OAAO,CAAC,eAAR,GAA0B"
+}

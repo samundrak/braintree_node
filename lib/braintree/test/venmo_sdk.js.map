@@ -1,0 +1,10 @@
+{
+  "version": 3,
+  "file": "venmo_sdk.js",
+  "sourceRoot": "../../..",
+  "sources": [
+    "src/braintree/test/venmo_sdk.coffee"
+  ],
+  "names": [],
+  "mappings": ";AAAA,IAAA;;AAAA,QAAA,GAAW,SAAC,MAAD;SACT,OAAA,GAAU;AADD;;AAGX,QAAA,GAAW;EACT,6BAAA,EAA+B,QADtB;EAET,qBAAA,EAAuB,QAAA,CAAS,kBAAT,CAFd;EAGT,wBAAA,EAA0B,kCAHjB;EAIT,OAAA,EAAS,cAJA;EAKT,cAAA,EAAgB,sBALP;;;AAQX,OAAO,CAAC,QAAR,GAAmB"
+}

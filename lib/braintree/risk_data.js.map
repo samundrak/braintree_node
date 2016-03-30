@@ -1,0 +1,10 @@
+{
+  "version": 3,
+  "file": "risk_data.js",
+  "sourceRoot": "../..",
+  "sources": [
+    "src/braintree/risk_data.coffee"
+  ],
+  "names": [],
+  "mappings": ";AAAA,IAAA,yBAAA;EAAA;;;AAAC,kBAAmB,OAAA,CAAQ,oBAAR,EAAnB;;AAEK;;;EACS,kBAAC,UAAD;IACX,0CAAM,UAAN;EADW;;;;GADQ;;AAIvB,OAAO,CAAC,QAAR,GAAmB"
+}

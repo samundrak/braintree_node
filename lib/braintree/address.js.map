@@ -1,0 +1,10 @@
+{
+  "version": 3,
+  "file": "address.js",
+  "sourceRoot": "../..",
+  "sources": [
+    "src/braintree/address.coffee"
+  ],
+  "names": [],
+  "mappings": ";AAAA,IAAA,wBAAA;EAAA;;;AAAC,kBAAmB,OAAA,CAAQ,oBAAR,EAAnB;;AAEK;;;;;;;;;GAAgB;;AAEtB,OAAO,CAAC,OAAR,GAAkB"
+}

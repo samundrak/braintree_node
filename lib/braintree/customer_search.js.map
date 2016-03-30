@@ -1,0 +1,10 @@
+{
+  "version": 3,
+  "file": "customer_search.js",
+  "sourceRoot": "../..",
+  "sources": [
+    "src/braintree/customer_search.coffee"
+  ],
+  "names": [],
+  "mappings": ";AAAA,IAAA,8BAAA;EAAA;;;AAAC,iBAAkB,OAAA,CAAQ,mBAAR,EAAlB;;AAEK;;;;;;;EACJ,cAAC,CAAA,UAAD,CACE,oBADF,EAEE,wBAFF,EAGE,kBAHF,EAIE,iBAJF,EAKE,iBALF,EAME,mBANF,EAOE,eAPF,EAQE,sBARF,EASE,gBATF,EAUE,SAVF,EAWE,OAXF,EAYE,KAZF,EAaE,WAbF,EAcE,IAdF,EAeE,UAfF,EAgBE,oBAhBF,EAiBE,oBAjBF,EAkBE,OAlBF,EAmBE,SAnBF,EAoBE,kCApBF;;EAuBA,cAAC,CAAA,cAAD,CAAgB,0BAAhB;;EACA,cAAC,CAAA,kBAAD,CAAoB,kBAApB;;EACA,cAAC,CAAA,kBAAD,CAAoB,KAApB;;EACA,cAAC,CAAA,WAAD,CAAa,WAAb;;;;GA3B2B;;AA6B7B,OAAO,CAAC,cAAR,GAAyB"
+}

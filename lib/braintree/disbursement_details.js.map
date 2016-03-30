@@ -1,0 +1,10 @@
+{
+  "version": 3,
+  "file": "disbursement_details.js",
+  "sourceRoot": "../..",
+  "sources": [
+    "src/braintree/disbursement_details.coffee"
+  ],
+  "names": [],
+  "mappings": ";AAAA,IAAA,oCAAA;EAAA;;;AAAC,kBAAmB,OAAA,CAAQ,oBAAR,EAAnB;;AAEK;;;;;;;gCACJ,OAAA,GAAS,SAAA;WACP;EADO;;;;GADuB;;AAIlC,OAAO,CAAC,mBAAR,GAA8B"
+}

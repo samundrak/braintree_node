@@ -1,0 +1,10 @@
+{
+  "version": 3,
+  "file": "transaction_amounts.js",
+  "sourceRoot": "../../..",
+  "sources": [
+    "src/braintree/test/transaction_amounts.coffee"
+  ],
+  "names": [],
+  "mappings": ";AAAA,IAAA;;AAAA,kBAAA,GACE;EAAA,SAAA,EAAW,SAAX;EACA,OAAA,EAAS,SADT;EAEA,IAAA,EAAM,SAFN;;;AAIF,OAAO,CAAC,kBAAR,GAA6B"
+}

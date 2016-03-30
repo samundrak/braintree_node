@@ -1,0 +1,10 @@
+{
+  "version": 3,
+  "file": "unknown_payment_method.js",
+  "sourceRoot": "../..",
+  "sources": [
+    "src/braintree/unknown_payment_method.coffee"
+  ],
+  "names": [],
+  "mappings": ";AAAA,IAAA,qCAAA;EAAA;;;AAAC,kBAAmB,OAAA,CAAQ,oBAAR,EAAnB;;AAEK;;;EACS,8BAAC,UAAD;AACX,QAAA;IAAA,IAAA,GAAO;;AAAC;WAAA,kBAAA;;qBAAA;AAAA;;QAAD,CAAkC,CAAA,CAAA;IACzC,UAAW,CAAA,IAAA,CAAK,CAAC,QAAjB,GAA4B;IAC5B,sDAAM,UAAW,CAAA,IAAA,CAAjB;EAHW;;;;GADoB;;AAMnC,OAAO,CAAC,oBAAR,GAA+B"
+}

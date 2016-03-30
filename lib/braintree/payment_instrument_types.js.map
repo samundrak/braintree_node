@@ -1,0 +1,10 @@
+{
+  "version": 3,
+  "file": "payment_instrument_types.js",
+  "sourceRoot": "../..",
+  "sources": [
+    "src/braintree/payment_instrument_types.coffee"
+  ],
+  "names": [],
+  "mappings": ";AAAA,IAAA;;AAAA,sBAAA,GAAyB;EACvB,aAAA,EAAe,gBADQ;EAEvB,iBAAA,EAAmB,qBAFI;EAGvB,UAAA,EAAY,aAHW;EAIvB,eAAA,EAAiB,kBAJM;EAKvB,YAAA,EAAc,gBALS;EAMvB,cAAA,EAAgB,kBANO;EAOvB,uBAAA,EAAyB,4BAPF;EAQvB,YAAA,EAAc,eARS;;;AAWzB,OAAO,CAAC,sBAAR,GAAiC"
+}

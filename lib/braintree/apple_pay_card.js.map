@@ -1,0 +1,10 @@
+{
+  "version": 3,
+  "file": "apple_pay_card.js",
+  "sourceRoot": "../..",
+  "sources": [
+    "src/braintree/apple_pay_card.coffee"
+  ],
+  "names": [],
+  "mappings": ";AAAA,IAAA,6BAAA;EAAA;;;AAAC,kBAAmB,OAAA,CAAQ,oBAAR,EAAnB;;AAEK;;;EACS,sBAAC,UAAD;IACX,8CAAM,UAAN;EADW;;;;GADY;;AAI3B,OAAO,CAAC,YAAR,GAAuB"
+}

@@ -1,0 +1,10 @@
+{
+  "version": 3,
+  "file": "partner_merchant.js",
+  "sourceRoot": "../..",
+  "sources": [
+    "src/braintree/partner_merchant.coffee"
+  ],
+  "names": [],
+  "mappings": ";AAAA,IAAA,gCAAA;EAAA;;;AAAC,kBAAmB,OAAA,CAAQ,oBAAR,EAAnB;;AAEK;;;;;;;;;GAAwB;;AAG9B,OAAO,CAAC,eAAR,GAA0B"
+}

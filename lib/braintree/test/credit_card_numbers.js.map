@@ -1,0 +1,10 @@
+{
+  "version": 3,
+  "file": "credit_card_numbers.js",
+  "sourceRoot": "../../..",
+  "sources": [
+    "src/braintree/test/credit_card_numbers.coffee"
+  ],
+  "names": [],
+  "mappings": ";AAAA,IAAA;;AAAA,iBAAA,GAAoB;EAClB,kBAAA,EAAqB;IACnB,OAAA,EAAoB,kBADD;IAEnB,UAAA,EAAoB,kBAFD;IAGnB,OAAA,EAAoB,kBAHD;IAInB,UAAA,EAAoB,kBAJD;IAKnB,eAAA,EAAoB,kBALD;IAMnB,KAAA,EAAoB,kBAND;IAOnB,OAAA,EAAoB,kBAPD;IAQnB,EAAA,EAAoB,kBARD;IASnB,WAAA,EAAoB,kBATD;IAUnB,iBAAA,EAAoB,kBAVD;IAWnB,KAAA,EAAoB,kBAXD;GADH;EAelB,iBAAA,EAAoB;IAClB,OAAA,EAAqB,iBADH;IAElB,cAAA,EAAqB,iBAFH;IAGlB,kBAAA,EAAqB,iBAHH;GAfF;;;AAsBpB,OAAO,CAAC,iBAAR,GAA4B"
+}

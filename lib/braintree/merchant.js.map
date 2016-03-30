@@ -1,0 +1,10 @@
+{
+  "version": 3,
+  "file": "merchant.js",
+  "sourceRoot": "../..",
+  "sources": [
+    "src/braintree/merchant.coffee"
+  ],
+  "names": [],
+  "mappings": ";AAAA,IAAA,yBAAA;EAAA;;;AAAC,kBAAmB,OAAA,CAAQ,oBAAR,EAAnB;;AAEK;;;EACS,kBAAC,UAAD;IACX,0CAAM,UAAN;EADW;;;;GADQ;;AAIvB,OAAO,CAAC,QAAR,GAAmB"
+}

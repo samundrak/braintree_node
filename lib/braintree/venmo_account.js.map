@@ -1,0 +1,10 @@
+{
+  "version": 3,
+  "file": "venmo_account.js",
+  "sourceRoot": "../..",
+  "sources": [
+    "src/braintree/venmo_account.coffee"
+  ],
+  "names": [],
+  "mappings": ";AAAA,IAAA,6BAAA;EAAA;;;AAAC,kBAAmB,OAAA,CAAQ,oBAAR,EAAnB;;AAEK;;;EACS,sBAAC,UAAD;IACX,8CAAM,UAAN;EADW;;;;GADY;;AAI3B,OAAO,CAAC,YAAR,GAAuB"
+}
